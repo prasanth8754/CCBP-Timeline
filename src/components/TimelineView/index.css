@@ -1,0 +1,24 @@
+.bg-cont {
+  height: 100vh;
+}
+
+.chrono-cont {
+  height: 75vh;
+}
+
+.main-h1 {
+  color: #1e293b;
+  font-size: 30px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.main-p {
+  color: #2b237c;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.chrono-cont {
+}
